@@ -5,7 +5,6 @@ Welcome to Part 2 of the AWS Lab series. This repository contains all the AWS la
 For AWS Lab Part 1, go to [repo-link](https://github.com/Shubhiidixit/AWS-Lab).
 
 ## Contributing
-
 Feel free to commit and provide suggestions to improve this repository. Your contributions are welcome and appreciated.
 
 
